@@ -60,7 +60,7 @@ AI-powered career guidance and intelligent assistance platform
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_Priya271809&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priya271809&theme=tokyonight" />
 </p>
 
 ---
