@@ -71,7 +71,8 @@ GitHub: https://github.com/Priya271809
 
 LinkedIn: https://www.linkedin.com/in/priya-patil-9491a9290/
 
-LeetCode: http://leetcode.com/u/priyapatil2718/
+LeetCode: https://leetcode.com/u/priyapatil2718/
+
 ---
 
 <div align="center">
