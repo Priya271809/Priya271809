@@ -53,7 +53,7 @@ AI-powered career guidance and intelligent assistance platform
 
 ---
 
-# GitHub States
+# GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Priya271809&show_icons=true&theme=tokyonight" />
@@ -67,12 +67,11 @@ AI-powered career guidance and intelligent assistance platform
 
 # Connect With Me
 
-GitHub: https://github.com/Priya271809
+[GitHub](https://github.com/Priya271809)
 
-LinkedIn: https://www.linkedin.com/in/priya-patil-9491a9290/
+[LinkedIn](https://linkedin.com/in/priya-patil-9491a9290)
 
-LeetCode: https://leetcode.com/u/priyapatil2718/
-
+[LeetCode](https://leetcode.com/YOUR_USERNAME)
 ---
 
 <div align="center">
