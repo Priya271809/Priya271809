@@ -1,16 +1,82 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Priya271809/Priya271809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Priya Patil
 
-Here are some ideas to get you started:
+### MERN Stack Developer | Salesforce Explorer | AI Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate about building modern web applications and exploring cloud and AI technologies.
+
+</div>
+
+---
+
+# About Me
+
+* BTech CSE Student
+* Building Full Stack MERN Applications
+* Learning Salesforce and Cloud Technologies
+* Exploring AI-integrated Applications
+* Improving Backend and System Design skills
+* Interested in real-world development projects
+
+---
+
+# Tech Stack
+
+### Frontend
+
+React, JavaScript, HTML, CSS, Tailwind CSS
+
+### Backend
+
+Node.js, Express.js, REST APIs, Socket.io
+
+### Database
+
+MongoDB, Mongoose
+
+### Other Technologies
+
+Salesforce, Git, GitHub, Postman
+
+---
+
+# Featured Projects
+
+### NexChat
+
+Real-time chat application using MERN Stack and Socket.io
+
+### CareerX AI
+
+AI-powered career guidance and intelligent assistance platform
+
+---
+
+# GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+# Connect With Me
+
+GitHub: https://github.com/YOUR_USERNAME
+
+LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+
+LeetCode: https://leetcode.com/YOUR_LEETCODE_USERNAME
+
+---
+
+<div align="center">
+
+Always Learning, Building and Growing
+
+</div>
